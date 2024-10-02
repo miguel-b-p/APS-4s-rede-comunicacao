@@ -1,4 +1,4 @@
-#FERRAMENTA PARA COMUNICAÇÃO EM REDE
+# FERRAMENTA PARA COMUNICAÇÃO EM REDE
 
 ## Descrição do Projeto
 Este projeto implementa um sistema de chat simples em Java, permitindo que um servidor aceite múltiplas conexões de clientes. Os clientes podem se comunicar entre si através do servidor, que gerencia as mensagens e a entrada de novos usuários.
